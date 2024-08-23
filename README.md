@@ -2,7 +2,7 @@
 <h2>👨‍💻 Deep Learning Projects:</h2>
 
 - <b>Stable Diffusion Model (Text_to_image)</b>
-  - [custom boilerplate for further trian the model ](https://github.com/Satyamdixit6/stable)
+  - [custom boilerplate for further trian the model and further use ema.ckpt to inference and for finetune the model ema and non ema.ckpt still fiquring out quatization for model  ](https://github.com/Satyamdixit6/stabke_diffusion_correct)
 - <b>Vision Model  (Google_Paligemma try to introduce custom trianing kernal for kv_cache and attention head but fail.)</b>
   - [try to introduce custom trianing kernal for kv_cache and attention head but fail.](https://github.com/Satyamdixit6) <b><i>()</b></i>
 - <b>Graph Neural Network for Molecular Property Prediction</b>
