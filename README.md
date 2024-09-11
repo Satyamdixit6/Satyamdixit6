@@ -14,7 +14,7 @@ Hi there! I'm Satyam Dixit, an aspiring Deep Learning Engineer with a passion fo
 ### 2. **Vision Model (Google Paligemma)**
 
 - **Description**: In this project, I tried to introduce custom training kernels for kv_cache and attention heads, but unfortunately, I failed to implement it successfully.
-- **Repository**: [Vision Model](https://github.com/Satyamdixit6)
+- **Repository**: [Vision Model](https://github.com/Satyamdixit6/visionmodel_without_train)
 
 ### 3. **Graph Neural Network for Molecular Property Prediction**
 
