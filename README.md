@@ -33,7 +33,7 @@ Feel free to reach out to me for collaboration, feedback, or just to chat about 
 
 - **GitHub**: [Satyamdixit6](https://github.com/Satyamdixit6)
 - **LinkedIn**: [Satyam Dixit](https://www.linkedin.com/in/satyam-dixit-6/)
-- **Email**: satyam.dixit@example.com
+- **Email**: satyamdixit6666@gmail.com
 
 ## 🙏 Acknowledgments
 
