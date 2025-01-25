@@ -1,4 +1,4 @@
-# Satyam Dixit - Aspiring Deep Learning Engineer
+# Satyam Dixit -Deep Learning Engineer
 
 ## About Me
 
